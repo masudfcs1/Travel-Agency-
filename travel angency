@@ -616,7 +616,7 @@ void main()
   {
     clrscr();
     cout<<"\n\n\t\t\n";
-    cout<<"\t\t ....WELCOME TO THE JAHANGEER DATABASE SYSTEM....\n";
+    cout<<"\t\t ....WELCOME TO THE  DATABASE SYSTEM....\n";
     cout<<"\t\t\n\n\n";
     cout<<"\t\t         \n";
     cout<<"\t\t MAIN MENU \n";
